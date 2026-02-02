@@ -1,7 +1,5 @@
 # AI Coursework (Public)  
 
-✝️ *Built by God, Driven by Excellence*  
-
 This repository contains a **curated selection of coursework and Kaggle projects** completed during my study of machine learning, deep learning, and data science.  
 Only polished work is included here — each project demonstrates clarity, reproducibility, and applied skill.  
 
@@ -36,10 +34,3 @@ Polished Kaggle notebooks and competition entries demonstrating applied modeling
 - Show breadth and consistency without clutter.  
 
 ---
-
-## 📖 Guiding Verse  
-
-*“Do you see a man skilled in his work?  
-He will stand before kings;  
-he will not stand before obscure men.”*  
-— Proverbs 22:29
